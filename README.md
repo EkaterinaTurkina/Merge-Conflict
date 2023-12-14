@@ -1,2 +1,2 @@
-# Merge-Conflict
+# second-branch
 Creating and Resolving Merge Conflicts Practice
